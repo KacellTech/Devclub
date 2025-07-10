@@ -1,0 +1,36 @@
+
+
+/* É Obrigatório ;*/
+/* o asterisco em css significa aplicara configuração em toda a página*/
+
+#titulo {
+color: rgb(250, 250, 252);
+    background: rgb(151, 230, 5);
+    font-size: 40px;
+    color: black;
+} 
+ 
+#paragrafo {
+background: darkkhaki;
+color: blue;
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
+}
+
+#botao {
+background-color: rgb(9, 202, 209);
+border-color: rgb(16, 16, 17);
+color: rgb(245, 239, 239);
+
+
+}
+
+#outro-botao
+{
+    background-color: rgb(189, 182, 182);
+    border-color: rgb(27, 255, 236);
+    color: rgb(234, 250, 16);
+
+
+}
